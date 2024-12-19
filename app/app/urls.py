@@ -21,4 +21,4 @@ urlpatterns = [
 ]
 
 
-one=sxfd
+one=1
